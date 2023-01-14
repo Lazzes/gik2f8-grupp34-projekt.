@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "it": "^1.1.1"
+  },
+  "name": "projekt",
+  "description": "Här är vår readme fil",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "coffee-script": "^1.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lazzes/gik2f8-grupp34-projekt.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "\"\",",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lazzes/gik2f8-grupp34-projekt/issues"
+  },
+  "homepage": "https://github.com/Lazzes/gik2f8-grupp34-projekt#readme"
+}
